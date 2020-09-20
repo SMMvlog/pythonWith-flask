@@ -1,0 +1,25 @@
+{
+
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root@localhost/myfirstblog",
+    "prod_uri": "mysql://root@localhost/myfirstblog",
+    "FB": "https://facebook.com/myfirstblog",
+    "TW": "https://facebook.com/myfirstblog",
+    "GH": "https://facebook.com/myfirstblog",
+    "Blog_Name": "SMM Blog",
+    "Tag_line": "A Blog Liked By Programmers",
+    "haid_blog": "SMM Blog",
+    "CopyRight": "Website@sinceMarch2020",
+    "gmail-user": "mehboob61923@gmail.com",
+    "gmail-password": "12345",
+    "about_text": "Hi My Nmae is Mehboob Shaikh and i have created this Website",
+    "no_of_post": 3,
+    "login_image": "login.svg",
+    "admin_user": "Mehboob",
+    "admin_password":"12345",
+    "upload_location": "C:\\Users\\MEHBOOB\\PycharmProjects\\FlaskTutorial\\static"
+  }
+
+}
