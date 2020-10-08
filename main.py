@@ -179,7 +179,7 @@ def edit(srNo):
         posts = post.query.filter_by(srNo=srNo).first()
 
 
-        return render_template('edit.html',params=params,posts=posts)
+        return render_template('edit.html',params=params,posts=posts,srNo=srNo)
 
 
 
